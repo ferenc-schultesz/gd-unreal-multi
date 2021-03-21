@@ -6,6 +6,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48439447-9a61-4410-ad61-4ed7a1cf867b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Content/PuzzlePlatforms/BP_PlatformTrigger.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/PuzzlePlatforms/PlatformTrigger.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/PuzzlePlatforms/PlatformTrigger.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PuzzlePlatforms/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PuzzlePlatforms/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PuzzlePlatforms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PuzzlePlatforms/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset" afterDir="false" />
@@ -264,7 +267,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613913652609</updated>
       <workItem from="1613913671952" duration="14185000" />
-      <workItem from="1615141260777" duration="4764000" />
+      <workItem from="1615141260777" duration="5113000" />
     </task>
     <servers />
   </component>
