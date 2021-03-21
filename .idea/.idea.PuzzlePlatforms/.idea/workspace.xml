@@ -6,11 +6,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48439447-9a61-4410-ad61-4ed7a1cf867b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.PuzzlePlatforms/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PuzzlePlatforms/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PuzzlePlatforms/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PuzzlePlatforms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PuzzlePlatforms/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PuzzlePlatforms.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/PuzzlePlatforms.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/PuzzlePlatforms/MovingPlatform.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/PuzzlePlatforms/MovingPlatform.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/PuzzlePlatforms/MovingPlatform.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/PuzzlePlatforms/MovingPlatform.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +25,8 @@
     <changedPaths>
       <option value="$PROJECT_DIR$/Source/PuzzlePlatforms/MovingPlatform.h" />
       <option value="$PROJECT_DIR$/Source/PuzzlePlatforms/MovingPlatform.cpp" />
+      <option value="$PROJECT_DIR$/Source/PuzzlePlatforms/PlatformTrigger.h" />
+      <option value="$PROJECT_DIR$/Source/PuzzlePlatforms/PlatformTrigger.cpp" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1onDq81XqFOHILO8mgBRMfU0I5M" />
@@ -33,6 +36,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -259,11 +263,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613913652609</updated>
-      <workItem from="1613913671952" duration="4305000" />
+      <workItem from="1613913671952" duration="14185000" />
+      <workItem from="1615141260777" duration="4764000" />
     </task>
     <servers />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -275,6 +280,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
